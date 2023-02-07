@@ -289,6 +289,7 @@ Chrome and Firefox have full support, but Safari and IE have strange behavior fo
 &#169; [Mohit Bajoria](https://mbj36.xyz)
 
 Updated to vue3 by Michael Dillard
+Published to npm by Offline Agency
 
 ## License
 
