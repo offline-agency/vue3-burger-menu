@@ -27,11 +27,11 @@ Then open [`localhost:8083`](http://localhost:8083) in a browser
 ## Installation
 
 ```
-npm install vue3-burger-menu --save
+npm i @offlineagency/vue3-burger-menu
 ```
 
 ```
-yarn add vue3-burger-menu
+yarn add @offlineagency/vue3-burger-menu
 ```
 
 ## Usage
